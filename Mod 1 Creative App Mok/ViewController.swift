@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     }
 
     
+    var test = 7
     
     
     
